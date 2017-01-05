@@ -1,0 +1,82 @@
+﻿Build started 3/2/2015 10:11:49 PM.
+     1>Project "C:\Users\Julien\documents\visual studio 2013\Projects\Game\Game\Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Biome.cpp Chunk.cpp ChunkManager.cpp Client.cpp ConnectionController.cpp Entity.cpp EntityController.cpp EntityManager.cpp Human.cpp Main.cpp Mob.cpp PhysicsMob.cpp PlayerController.cpp Server.cpp Shadow.cpp VoxelMesher.cpp Window.cpp World.cpp
+         World.cpp
+         Window.cpp
+         VoxelMesher.cpp
+         Main.cpp
+         Chunk.cpp
+         Biome.cpp
+         Generating Code...
+         Compiling...
+         ChunkManager.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         Shadow.cpp
+         Server.cpp
+         PlayerController.cpp
+         PhysicsMob.cpp
+         Mob.cpp
+         Human.cpp
+         EntityManager.cpp
+         EntityController.cpp
+         Entity.cpp
+         ConnectionController.cpp
+         Client.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Julien\documents\visual studio 2013\Projects\Game\Debug\Game.exe" /INCREMENTAL /NOLOGO SDL2.lib SDL2main.lib SDL2_net.lib opengl32.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Julien\documents\visual studio 2013\Projects\Game\Debug\Game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Julien\documents\visual studio 2013\Projects\Game\Debug\Game.lib" /MACHINE:X86 Debug\Biome.obj
+         Debug\Bloom.obj
+         Debug\Camera.obj
+         Debug\Chunk.obj
+         Debug\ChunkManager.obj
+         Debug\Client.obj
+         Debug\ConnectionController.obj
+         Debug\DataContainer.obj
+         Debug\Entity.obj
+         Debug\EntityController.obj
+         Debug\EntityManager.obj
+         Debug\FrustumCuller.obj
+         Debug\FXAA.obj
+         Debug\Human.obj
+         Debug\Input.obj
+         Debug\Light.obj
+         Debug\Lighting.obj
+         Debug\Main.obj
+         Debug\Mat4.obj
+         Debug\Mob.obj
+         Debug\Model.obj
+         Debug\ModelLoader.obj
+         Debug\ModelManager.obj
+         Debug\ModelViewProjection.obj
+         Debug\Noise.obj
+         Debug\PhysicsMob.obj
+         Debug\PlayerController.obj
+         Debug\Profiler.obj
+         Debug\RenderingEngine.obj
+         Debug\Server.obj
+         Debug\Shader.obj
+         Debug\Shadow.obj
+         Debug\Sky.obj
+         Debug\SSAO.obj
+         Debug\stb_image.obj
+         Debug\Texture.obj
+         Debug\ThreadManager.obj
+         Debug\Transform.obj
+         Debug\Util.obj
+         Debug\Vec2.obj
+         Debug\Vec3.obj
+         Debug\Vec3i.obj
+         Debug\VertexBufferObject.obj
+         Debug\VertexData.obj
+         Debug\VoxelArrayContainer.obj
+         Debug\VoxelContainer.obj
+         Debug\VoxelMesher.obj
+         Debug\Window.obj
+         Debug\World.obj
+         Game.vcxproj -> C:\Users\Julien\documents\visual studio 2013\Projects\Game\Debug\Game.exe
+     1>Done Building Project "C:\Users\Julien\documents\visual studio 2013\Projects\Game\Game\Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.67
